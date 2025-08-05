@@ -5,12 +5,11 @@ body{
 }
 span{
     font-style: oblique;
-    font-size: 33px;
+    font-size: 25px;
     border: 2px solid ;
     border-radius: 13px;
     background-color: rgb(13, 3, 91);
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-bottom: 2px;
     
 }
 h3{
@@ -47,11 +46,6 @@ div{
 }
 .az1{
     margin: 13px;
-}
-h1{
-    text-align: center;
-    font-size: 45px;
-    background-color: rgb(13, 3, 91);
 }
 h2{
     font-size: 30px;
