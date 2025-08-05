@@ -1,4 +1,63 @@
 body{
-    background-color: rgb(13, 3, 91);
+    background-color: white;
     color: aliceblue;
+    background-color: rgb(13, 3, 91);
+}
+span{
+    font-style: oblique;
+    font-size: 33px;
+    border: 2px solid ;
+    border-radius: 13px;
+    background-color: rgb(13, 3, 91);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+h3{
+    font-size: 37px;
+    border: 2px solid gold;
+}
+p{
+    font-size: xx-large;
+    color: solid white;
+    border-radius: 13px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+b{
+    font-size: 40px;
+    margin: 13px;
+}
+img{
+    border-radius: 23px;
+}
+a{
+    font-size:xx-large;
+    background-color: rgb(13, 3, 91);
+}
+.az2{
+    font-size: 45px;
+    background-color:rgb(13, 3, 91) ;
+    font-style: italic;
+    padding-top: 3px;
+}
+div{
+    margin: 13px;
+    font-size: x-large;
+}
+.az1{
+    margin: 13px;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    background-color: rgb(13, 3, 91);
+}
+h2{
+    font-size: 30px;
+}
+.box{
+    border: 2px solid white;
+    border-radius: 13px;
+    
 }
